@@ -1,2 +1,2 @@
 # CB
-Personal project Next.js and ML
+Personal project Next.js
